@@ -1,9 +1,9 @@
-# Alarm Clock WPF
-![Alarm Clock Icon](https://github.com/DiverKonuhov/PerAlarmTimePC/blob/master/Sorces/photo_2025-03-22_23-14-55.jpg) <!-- Замените на URL вашей иконки -->
+# PreAlarmTimePC
+![PreAlarmTimePC Icon](https://github.com/DiverKonuhov/PerAlarmTimePC/blob/master/Sorces/photo_2025-03-22_23-14-55.jpg) <!-- Замените на URL вашей иконки -->
 ## Описание проекта
 
-**Alarm Clock WPF** — это интуитивно понятное и функциональное приложение для управления будильниками, разработанное с использованием Windows Presentation Foundation (WPF). Проект ориентирован на пользователей, которым необходимо легко и удобно устанавливать, редактировать и удалять будильники, а также получать уведомления в заданное время.
-![Alarm Clock Banner](https://github.com/DiverKonuhov/PerAlarmTimePC/blob/master/Sorces/photo_2025-03-22_23-14-54.jpg) <!-- Замените на URL вашего баннера -->
+**** — это интуитивно понятное и функциональное приложение для управления будильниками, разработанное с использованием Windows Presentation Foundation (WPF). Проект ориентирован на пользователей, которым необходимо легко и удобно устанавливать, редактировать и удалять будильники, а также получать уведомления в заданное время.
+![PreAlarmTimePC Banner](https://github.com/DiverKonuhov/PerAlarmTimePC/blob/master/Sorces/photo_2025-03-22_23-14-54.jpg) <!-- Замените на URL вашего баннера -->
 ### Основные функции (то чего точно нет)
 
 - **Установка многократных будильников:** Позволяет пользователям добавлять несколько будильников с индивидуальными настройками.
@@ -21,7 +21,7 @@
 
 1. Клонируйте репозиторий:
    
-  git clone [https://github.com/yourusername/alarm-clock-wpf](https://github.com/DiverKonuhov/PerAlarmTimePC).git
+  git clone [https://github.com/yourusername/PreAlarmTimePC](https://github.com/DiverKonuhov/PerAlarmTimePC).git
 
 2. Откройте проект в Visual Studio.
 
