@@ -1,7 +1,7 @@
 # Alarm Clock WPF
 
-![Alarm Clock Banner]([https://example.com/your-banner-image.png](https://github.com/DiverKonuhov/PerAlarmTimePC/blob/master/Sorces/photo_2025-03-22_23-14-54.jpg)) <!-- Замените на URL вашего баннера -->
-![Alarm Clock Icon]([https://example.com/your-icon-image.png](https://github.com/DiverKonuhov/PerAlarmTimePC/blob/master/Sorces/photo_2025-03-22_23-14-55.jpg)) <!-- Замените на URL вашей иконки -->
+![Alarm Clock Banner](https://github.com/DiverKonuhov/PerAlarmTimePC/blob/master/Sorces/photo_2025-03-22_23-14-54.jpg) <!-- Замените на URL вашего баннера -->
+![Alarm Clock Icon](https://github.com/DiverKonuhov/PerAlarmTimePC/blob/master/Sorces/photo_2025-03-22_23-14-55.jpg) <!-- Замените на URL вашей иконки -->
 
 ## Описание проекта
 
