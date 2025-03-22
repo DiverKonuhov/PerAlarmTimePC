@@ -1,12 +1,19 @@
 ﻿<Window x:Class="WpfAlarmClock.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:WpfAlarmClock"
-        mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Будильник" Height="300" Width="400">
     <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <!-- Отображение текущего времени -->
+            <TextBlock x:Name="CurrentTimeText" FontSize="24" TextAlignment="Center" Margin="0,0,0,20"/>
 
+            <!-- Выбор времени для будильника -->
+            <TextBlock Text="Установите время будильника:" Margin="0,10"/>
+            <TextBox x:Name="AlarmTimeInput" Width="100" TextAlignment="Center" Margin="0,5"/>
+            <Button x:Name="SetAlarmButton" Content="Установить будильник" Click="SetAlarmButton_Click" Margin="0,10"/>
+
+            <!-- Состояние будильника -->
+            <TextBlock x:Name="AlarmStatusText" FontSize="18" Foreground="Red" Margin="0,20"/>
+        </StackPanel>
     </Grid>
 </Window>
