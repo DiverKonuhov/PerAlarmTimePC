@@ -1,10 +1,10 @@
 # PreAlarmTimePC
-![PreAlarmTimePC Icon](https://github.com/DiverKonuhov/PerAlarmTimePC/blob/master/Sorces/photo_2025-03-22_23-14-55.jpg) <!-- Замените на URL вашей иконки -->
+![PreAlarmTimePC Icon](https://github.com/DiverKonuhov/PreAlarmTimePC/blob/master/Sorces/photo_2025-03-22_23-14-55.jpg) <!-- Замените на URL вашей иконки -->
 ## Описание проекта
 
 **PreAlarmTimePC** — это интуитивно понятное и функциональное приложение для управления будильниками, разработанное с использованием Windows Presentation Foundation (WPF). Проект ориентирован на пользователей, которым необходимо легко и удобно устанавливать, редактировать и удалять будильники, а также получать уведомления в заданное время.
 
-![PreAlarmTimePC Banner](https://github.com/DiverKonuhov/PerAlarmTimePC/blob/master/Sorces/photo_2025-03-22_23-14-54.jpg) <!-- Замените на URL вашего баннера -->
+![PreAlarmTimePC Banner](https://github.com/DiverKonuhov/PreAlarmTimePC/blob/master/Sorces/photo_2025-03-22_23-14-54.jpg) <!-- Замените на URL вашего баннера -->
 ### Основные функции (то чего точно нет)
 
 - **Установка многократных будильников:** Позволяет пользователям добавлять несколько будильников с индивидуальными настройками.
